@@ -1,2 +1,3 @@
 Another line added
 Hello Everyone
+New line added
